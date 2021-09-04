@@ -1,5 +1,5 @@
 ### Hi there 👋
-Profile Hits:
+Profile Hits: [![HitCount](http://hits.dwyl.com/yeoswehon/yeoswehon.svg)]
 <!--
 **yeoswehon/yeoswehon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
