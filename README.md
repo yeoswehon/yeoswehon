@@ -1,6 +1,6 @@
 ### Hi there 👋
 Profile Hits: [![HitCount](http://hits.dwyl.com/yeoswehon/yeoswehon.svg)](http://hits.dwyl.com/yeoswehon/yeoswehon)
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yeoswehon" alt="Hits">
 <!--
 **yeoswehon/yeoswehon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
