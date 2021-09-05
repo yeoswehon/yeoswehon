@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on competitive programming and machine learning
 - 🌱 I’m currently learning competitive programming
-- 👯 I’m looking to collaborate on hackathons
+- 👯 I’m looking to collaborate on hackathons or capture the flag competitions
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about programming
 - 📫 How to reach me: @github
