@@ -1,9 +1,9 @@
 ### Hi there 👋
 Profile Hits: <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yeoswehon" alt="Hits">
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yeoswehonhit-counter)
+
 <!--
 **yeoswehon/yeoswehon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yeoswehonhit-counter)
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on competitive programming and machine learning
